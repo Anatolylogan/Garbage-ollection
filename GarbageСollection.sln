@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35521.163 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageСollection", "GarbageСollection\GarbageСollection.csproj", "{B3D4D665-89C2-419A-80CC-4FFA2C7A55B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalizersIDisposable", "FinalizersIDisposable\FinalizersIDisposable.csproj", "{6EB335AC-3046-43B4-8C00-D99285A373B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B3D4D665-89C2-419A-80CC-4FFA2C7A55B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D4D665-89C2-419A-80CC-4FFA2C7A55B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D4D665-89C2-419A-80CC-4FFA2C7A55B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB335AC-3046-43B4-8C00-D99285A373B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB335AC-3046-43B4-8C00-D99285A373B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB335AC-3046-43B4-8C00-D99285A373B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB335AC-3046-43B4-8C00-D99285A373B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
