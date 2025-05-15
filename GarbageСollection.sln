@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageСollection", "GarbageСollection\GarbageСollection.csproj", "{B3D4D665-89C2-419A-80CC-4FFA2C7A55B8}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryLeak", "MemoryLeak\MemoryLeak.csproj", "{A6103A3A-4776-4693-9EBB-67F1CAAABFC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWeakReference", "UsingWeakReference\UsingWeakReference.csproj", "{BE5F8048-FF19-490D-94ED-4CE117C24434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOH", "LOH\LOH.csproj", "{041B4B06-185A-4301-8A3E-0DBE5021DAAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BE5F8048-FF19-490D-94ED-4CE117C24434}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE5F8048-FF19-490D-94ED-4CE117C24434}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE5F8048-FF19-490D-94ED-4CE117C24434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041B4B06-185A-4301-8A3E-0DBE5021DAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B4B06-185A-4301-8A3E-0DBE5021DAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B4B06-185A-4301-8A3E-0DBE5021DAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B4B06-185A-4301-8A3E-0DBE5021DAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
